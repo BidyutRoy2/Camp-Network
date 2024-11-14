@@ -1,4 +1,4 @@
-# Rome Protocol Testnet Transaction & Contracts Deploy Bot by HiddenGem
+# Camp Network Testnet Transaction & Contracts Deploy Bot by HiddenGem
 
 ## Use Burner/New EVM Wallet For Testnet
 
@@ -8,7 +8,24 @@
 <img src='https://github.com/BidyutRoy2/BidyutRoy2/blob/main/Logo_BG.png' style="width:300px;height:300px;">
 </p>
 
-## 1. Daily Transaction Bot
+## 1. Register Event Link HERE
+
+## 2. Contracts Deploy Bot
+
+### 1. Open [Github CodeSpace](https://github.com/codespaces)
+- Past Command in Terminal
+  ```
+   [ -f "evm-contract.sh" ] && rm evm-contract.sh; wget -q https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/refs/heads/main/ERC20/evm-contract.sh && chmod +x evm-contract.sh && ./evm-contract.sh
+  ```
+### RPC URL
+```
+https://rpc-campnetwork.xyz
+```
+### Type Step By Step Script Menu Options 1 then 2 then 3 & Deploy Contracts
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
+
+## 3. Daily Transaction Bot
 
 ### 1. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
 
@@ -19,12 +36,12 @@
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/BidyutRoy2/Rome-Protocol-Testnet.git
+git clone https://github.com/BidyutRoy2/Camp-Network.git
 ```
 
 ### 3. Go To Bot Directory
 ```
-cd Rome-Protocol-Testnet
+cd Camp-Network
 cd Transaction-Bot
 ```
 
@@ -52,20 +69,6 @@ npm start
 
 ### 6. Follow Next Step and Make Transaction
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
-
-
-## 2. Contracts Deploy Bot
-
-## Follow Steps
-
-### 1. Open [Github CodeSpace](https://github.com/codespaces)
-- Past Command in Terminal
-  ```
-   [ -f "evm-contract.sh" ] && rm evm-contract.sh; wget -q https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/refs/heads/main/ERC20/evm-contract.sh && chmod +x evm-contract.sh && ./evm-contract.sh
-  ```
-### Type Step By Step Script Menu Options 1 then 2 then 3 & Deploy Contracts
 
 
 # ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
