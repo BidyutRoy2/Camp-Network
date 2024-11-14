@@ -10,7 +10,20 @@
 
 ## 1. Register Event Link HERE
 
-## 2. Contracts Deploy Bot
+## 2. Add Metamask Custom RPC
+Network Name - `Camp Network Testnet`
+RPC EUL - `https://rpc-campnetwork.xyz`
+Chain ID - `325000`
+Symbol - `ETH`
+Explorer URL `https://camp-network-testnet.blockscout.com`
+
+## 3. Bridge Sepolia to Camp Testnet 
+
+- https://bridge.gelato.network/bridge/camp-network-testnet
+
+- https://camp-testnet-v2-4e2d4872757efbdd.testnets.rollbridge.app
+
+## 4. Contracts Deploy Bot
 
 ### 1. Open [Github CodeSpace](https://github.com/codespaces)
 - Past Command in Terminal
@@ -25,7 +38,7 @@ https://rpc-campnetwork.xyz
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
 
-## 3. Daily Transaction Bot
+## 5. Daily Transaction Bot
 
 ### 1. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
 
