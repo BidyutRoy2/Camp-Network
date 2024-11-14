@@ -25,7 +25,7 @@
 
 ## 4. Contracts Deploy Bot
 
-### 1. Open [Github CodeSpace](https://github.com/codespaces)
+### 1. Open New Terminal [Github CodeSpace](https://github.com/codespaces)
 - Past Command in Terminal
   ```
    [ -f "evm-contract.sh" ] && rm evm-contract.sh; wget -q https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/refs/heads/main/ERC20/evm-contract.sh && chmod +x evm-contract.sh && ./evm-contract.sh
