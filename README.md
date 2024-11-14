@@ -11,11 +11,11 @@
 ## 1. Register Event [Link HERE](https://t.me/hiddengemnews/9292)
 
 ## 2. Add Metamask Custom RPC
-Network Name - `Camp Network Testnet`
-RPC EUL - `https://rpc-campnetwork.xyz`
-Chain ID - `325000`
-Symbol - `ETH`
-Explorer URL `https://camp-network-testnet.blockscout.com`
+- Network Name - `Camp Network Testnet`
+- RPC EUL - `https://rpc-campnetwork.xyz`
+- Chain ID - `325000`
+- Symbol - `ETH`
+- Explorer URL `https://camp-network-testnet.blockscout.com`
 
 ## 3. Bridge Sepolia to Camp Testnet 
 
