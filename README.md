@@ -80,7 +80,7 @@ Example : `PRIVATE_KEYS=["234567890abcdef1234567890abcdef1234567890abcdef1234567
 npm start
 ```
 
-### 6. Follow Next Step and Make Transaction
+### Follow Next Step and Make Transaction
 
 
 
