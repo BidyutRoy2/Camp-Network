@@ -8,7 +8,7 @@
 <img src='https://github.com/BidyutRoy2/BidyutRoy2/blob/main/Logo_BG.png' style="width:300px;height:300px;">
 </p>
 
-## 1. Register Event Link HERE
+## 1. Register Event [Link HERE](https://t.me/hiddengemnews/9292)
 
 ## 2. Add Metamask Custom RPC
 Network Name - `Camp Network Testnet`
